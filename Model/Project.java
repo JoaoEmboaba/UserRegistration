@@ -11,6 +11,7 @@ public class Project {
     public Project() {
     }
 
+    //Método construtor para atribuição de valores dos atributos
     public Project(int id, String name, String Password, String area) {
         this.id = id;
         this.name = name;
