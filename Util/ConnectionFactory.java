@@ -38,6 +38,7 @@ public class ConnectionFactory {
             }
         } catch (Exception ex) {
             throw new RuntimeException("Erro ao fechar a conexão com o banco de dados", ex);
+            //Committt
         }
     }
 }
