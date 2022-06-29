@@ -15,7 +15,7 @@ public class App {
         Project project = new Project();
 
         /*Aqui você pode fazer testes através de códigos para testar a 
-        funcionalidade da aplicação
+        funcionalidade da aplicação em forma de código
         */
    }
 }
