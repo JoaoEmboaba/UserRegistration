@@ -10,6 +10,7 @@ public class ProjectController {
 
     public void SalvarCadasto(Project project) {
 
+            //Comando sql para a inserção de cadastros no banco de dados
         String sql = "INSERT INTO cadastros (nome, Password,"
                 + "area) VALUES (?, ?, ?)";
 
